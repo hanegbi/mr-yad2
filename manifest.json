@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "יד2 הצגת מחיר למטר רבוע",
+  "name": "יד2 הצגת מחיר חכם למ״ר",
   "version": "1.0.1",
   "description": "Displays smart price per square meter for every property in Yad2 search results",
   "icons": {
