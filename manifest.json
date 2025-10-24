@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Yad2 Price Per m²",
-  "version": "1.0.0",
+  "name": "יד2 הצגת מחיר למטר רבוע",
+  "version": "1.0.1",
   "description": "Displays smart price per square meter for every property in Yad2 search results",
   "icons": {
     "16": "icons/icon16.png",
